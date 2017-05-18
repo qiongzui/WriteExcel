@@ -1,0 +1,16 @@
+F:\MyProject\计算EXCEL\计算EXCEL\bin\Release\计算EXCEL.exe.config
+F:\MyProject\计算EXCEL\计算EXCEL\bin\Release\计算EXCEL.exe
+F:\MyProject\计算EXCEL\计算EXCEL\bin\Release\计算EXCEL.pdb
+F:\MyProject\计算EXCEL\计算EXCEL\obj\Release\Interop.MSScriptControl.dll
+F:\MyProject\计算EXCEL\计算EXCEL\obj\Release\计算EXCEL.csproj.ResolveComReference.cache
+F:\MyProject\计算EXCEL\计算EXCEL\obj\Release\计算EXCEL.exe
+F:\MyProject\计算EXCEL\计算EXCEL\obj\Release\计算EXCEL.pdb
+F:\MyProject\计算EXCEL\计算EXCEL\obj\Release\计算EXCEL.csprojResolveAssemblyReference.cache
+E:\c#\计算EXCEL\计算EXCEL\bin\Release\计算EXCEL.exe.config
+E:\c#\计算EXCEL\计算EXCEL\bin\Release\计算EXCEL.exe
+E:\c#\计算EXCEL\计算EXCEL\bin\Release\计算EXCEL.pdb
+E:\c#\计算EXCEL\计算EXCEL\obj\Release\计算EXCEL.csprojResolveAssemblyReference.cache
+E:\c#\计算EXCEL\计算EXCEL\obj\Release\Interop.MSScriptControl.dll
+E:\c#\计算EXCEL\计算EXCEL\obj\Release\计算EXCEL.csproj.ResolveComReference.cache
+E:\c#\计算EXCEL\计算EXCEL\obj\Release\计算EXCEL.exe
+E:\c#\计算EXCEL\计算EXCEL\obj\Release\计算EXCEL.pdb
